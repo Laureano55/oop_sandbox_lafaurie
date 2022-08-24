@@ -18,21 +18,21 @@ esto es un hyperlink [readsy](http://www.readsy.co/)
 inline code: `import pandas as pd`
 
 
-`print("la vida es bella")`
+`print("la vida NO es bella 😎")`
 
 A block of code:
 
 ```
-there is no lie
+the CAKE is a lie
+
+Don't forget
 
 :D 
 
-🐢 🤝 🦜
+🐢 🤝 🦜 😎
 
 por ejemplo:
-print("la vida es bella")
+print("la vida es bella ")
 
 ```
 
-
-viva el amor
